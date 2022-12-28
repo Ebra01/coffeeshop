@@ -1,8 +1,6 @@
 # CoffeeShop
 
-### Content:
-
-**Final Project Links:**
+**Final Project Links:**\
 View Projects Link including:
 - Figma (Prototypes) Links
 - Miro Board
@@ -10,10 +8,10 @@ View Projects Link including:
 - Usability Test Guide
 - Lookback (Task-Flow Test)
 
-**Improvements:**
+**Improvements:**\
 Comparing the design before and after the Usability & Accessibility Tests.
 
-**Usability Test:**
+**Usability Test:**\
 Usability Test description and results.
 
 **Midterm Review**
